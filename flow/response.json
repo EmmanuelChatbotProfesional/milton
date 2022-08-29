@@ -142,7 +142,7 @@
         "replyMessage":[
             "Esto es una nota de voz \n"
         ],
-        "media":"nota-de-voz.mp3",
+        "media":"catalogo.pdf",
         "trigger":null
     }
 }
